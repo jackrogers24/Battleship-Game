@@ -40,13 +40,16 @@
 
 This project is a replica of the classic board game, Battleship. The game was was created in Qt with C++, so you must have Qt to run the game files. In addition to the classic game rules, this version contains two new attacks which can each be used once per game per player: Scattershot (attack 5 squares in the shape of a "+" sign) and Napalm Strike (attack a whole row of the opponent's game board).
 <p align="right">(<a href="#top">back to top</a>)</p>
+<br>
+<br>
+To view some screenshots of gameplay, please refer to this link: <a href="https://github.com/jrogers2400/Battleship-Game/tree/main/Battleship%20Screenshots">Project Screenshots</a>
 
 
 
 ### Built With
 
-* [Python](https://www.python.org/)
-* [Jupyter Notebook](https://jupyter.org/)
+* [Qt](https://www.qt.io/)
+* [C++](https://cplusplus.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,16 +61,13 @@ This project is a replica of the classic board game, Battleship. The game was wa
 
 Jack Rogers  - jrogers2400@gmail.com
 
-Project Link: [https://github.com/jrogers2400/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-.git](https://github.com/jrogers2400/Reinforcement-Learning-Project-Gridworld-Pacman-Crawler-.git)
+Project Link: [https://github.com/jrogers2400/Battleship-Game.git](https://github.com/jrogers2400/Battleship-Game.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* [UC Berkeley AI Project 3: Reinforcement Learning](http://ai.berkeley.edu/reinforcement.html)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
