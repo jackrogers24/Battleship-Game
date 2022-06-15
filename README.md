@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a replica of the classic board game, Battleship. The game was was created in Qt with C++, so you must have Qt to run the game files. In addition to the classic game rules, this version contains two new attacks which can each be used once per game per player: Scattershot (attack 5 squares in the shape of a "+" sign) and Napalm Strike (attack a whole row of the opponent's game board).
+This project is a replica of the classic board game, Battleship. The game was was created in Qt with C++, so you must have Qt to run the game files. In addition to the classic game rules, this version contains two new attacks which can each be used once per game per player: Scattershot (attack 5 squares in the shape of a "+" sign) and Napalm Strike (attack a whole row of the opponent's game board). A grey game board square indicates an unattacked square, while blue indicates a miss and orange indicates a hit.
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br>
 <br>
